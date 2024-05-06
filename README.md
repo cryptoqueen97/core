@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to cryptoqueen97 - String Utils! 👋 </h1>
+<h1 align="center">Welcome to cryptoqueen97 - Mikamoon! 👋 </h1>
 
 <p align="center">Provides useful functions for manipulating strings and can be used in typescript/javascript. 💖 </p>
 
