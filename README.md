@@ -29,7 +29,7 @@ npm install mikamoon
 ## 📆 Release Date
 
 * v1.0.0 : 25 March 2024
-* v1.0.1 : 01 April 2024
+* v1.2.3 : 05 May 2024
 
 ## 🧑 Author
 
