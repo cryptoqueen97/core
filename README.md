@@ -30,7 +30,7 @@ npm install mikamoon
 
 * v1.0.0 : 25 March 2024
 * v1.2.3 : 05 May 2024
-
+* v1.2.4 : 09 may 2024
 ## 🧑 Author
 
 * Facebook : <a href="https://www.facebook.com/cryptoqueen97"> cryptoqueen97</a>
@@ -58,21 +58,25 @@ Repository
 github.com/cryptoqueen/cryptoqueen97 mikamoon
 
 Homepage
-github.com/cryptoqueen/cryptoqueen mikamoon #readme
+github.com/cryptoqueen97/cryptoqueen97 mikamoon #readme
 
 Version
-1.0.1
+1.2.4 
+
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
+> [!TIP]
+> Helpful advice for doing things better or more easily.
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
+
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
+
+> [!CAUTION]
+> Advises about risks or negative outcomes of certain actions.
 
 
 
-License
-ISC
-
-
-
-Last publish
-a month ago
-
-Collaborators
-cryptoqueen97
-Try on RunKit
