@@ -32,6 +32,7 @@ npm install mikamoon
 * v1.2.3 : 05 May 2024
 * v1.2.4 : 09 may 2024
 * v1.2.5 : 11 may 2024
+* v1.2.6 : 26 may 2024
 ## 🧑 Author
 
 * Facebook : <a href="https://www.facebook.com/cryptoqueen97"> cryptoqueen97</a>
